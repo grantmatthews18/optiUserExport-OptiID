@@ -129,3 +129,4 @@ public
 .vscode-test/*
 
 grantsTestCreds.json
+*.zip
